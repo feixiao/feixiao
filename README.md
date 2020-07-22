@@ -6,6 +6,6 @@
 
 ### Hi 👋, I'm Frank.
 - 🌱 I'm live in HangZhou.
-- 🔭 Working on Micro Servive、Webrtc、Stream Media and so on. 
+- 🔭 Working on Micro Servive、WebRTC、Stream Media and so on. 
 - 📫 How to reach me: feixiao2020@163.com.
 

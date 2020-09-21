@@ -5,7 +5,7 @@
 <!-- prettier-ignore-end -->
 
 ### Hi 👋, I'm Frank.
-- 🌱 I'm live in HangZhou.
+- 🌱 I'm living in HangZhou.
 - 🔭 Working on Micro Service、WebRTC、Stream Media and so on. 
 - 📫 How to reach me: feixiao2020@163.com.
 

@@ -4,7 +4,7 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feixiao&layout=compact)]
 
 ### Hi 👋, I'm Frank.
 - 🌱 I'm living in HangZhou.

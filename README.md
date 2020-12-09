@@ -7,7 +7,7 @@
 - 📫 How to reach me: feixiao2020@163.com.
 
 
-[![Lxxyx Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxxyx)](https://github.com/anuraghazra/github-readme-stats)
+[![Lxxyx Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feixiao)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

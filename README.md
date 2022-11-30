@@ -1,3 +1,8 @@
 
 
-[![Lxxyx github stats](https://github-readme-stats.vercel.app/api?username=feixiao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+<a href="/">
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feixiao&theme=github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feixiao&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=feixiao&layout=compact&exclude_repo=Android_Homework,rinchannowww.github.io&langs_count=8" />
+</a>

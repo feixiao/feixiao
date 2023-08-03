@@ -1,6 +1,5 @@
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feixiao&show_icons=true&theme=radical)
 
 
-<a href="/">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feixiao&theme=github">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feixiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

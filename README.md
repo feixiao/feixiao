@@ -20,7 +20,7 @@
 
 ---
 
-## 🧰 Tech Stack
+<!-- ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
@@ -29,7 +29,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git) -->
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 - ⭐ 欢迎查看我的仓库：<https://github.com/feixiao?tab=repositories>
 - 🛠️ 这里可以放你最想展示的 2-4 个项目（建议补充截图和在线链接）
@@ -64,7 +64,7 @@
 
 ## 🤝 Connect
 
-- GitHub: <https://github.com/feixiao>
+- GitHub: <https://github.com/feixiao> -->
 
 ---
 

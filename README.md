@@ -35,13 +35,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://gms-puce.vercel.app/api?username=feixiao&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://gms-puce.vercel.app/api/top-langs/?username=feixiao&layout=compact&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://gms-puce.vercel.app/api?username=feixiao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://gms-puce.vercel.app/api/top-langs/?username=feixiao&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="49%" />
+</p>
 
 ---
 

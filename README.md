@@ -3,7 +3,7 @@
 # 👨‍💻 Hi, I'm Frank (feixiao)
 
 <a href="https://github.com/feixiao">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Backend+Architecture+%26+Cloud+Native;Audio%2FVideo+Streaming+(FFmpeg+%2B+WebRTC);AI+%26+LLM+Performance+Benchmarking;Building+Practical+%26+Robust+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Golang+%26+C%2FC%2B%2B+Systems+Programming;Audio%2FVideo+Streaming+(FFmpeg+%2B+WebRTC);Cloud+Native+%26+Container+Internals;Building+Practical+%26+Robust+Software" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,15 +17,15 @@
 
 ## 🚀 About Me
 
-- 🔭 **后端与基础架构**：深耕后端高性能架构、系统级编程与云原生基础架构
-- 🎥 **音视频与多媒体**：深入探索编解码底层原理与流媒体实时通信，系统沉淀 FFmpeg、WebRTC、GStreamer 技术手册
-- 🤖 **AI & 大模型工程**：专注 LLM 并发推理压测、AI Agent 与大模型工程化落地
+- 🔭 **后端与系统编程**：深耕 Golang 与 C/C++ 高性能系统级开发，深入剖析 Docker、NSQ 等开源系统底层实现
+- 🎥 **音视频与流媒体**：深入探索编解码底层原理与实时通信技术，系统沉淀 FFmpeg、WebRTC、GStreamer 与 Janus 技术手册
+- 💡 **工程素养与架构设计**：追求整洁代码与优雅设计，深入实践经典设计模式（Design Patterns）与微服务架构
 - 📍 **坐标**：中国 · 杭州 (Hangzhou, China)
 
 ## 📌 Featured Projects
 
 - 🎥 **[learn-ffmpeg](https://github.com/feixiao/learn-ffmpeg)** · [![Stars](https://img.shields.io/github/stars/feixiao/learn-ffmpeg?style=flat-square&color=fe428e)](https://github.com/feixiao/learn-ffmpeg)  
-  音视频全栈知识体系与 FFmpeg 核心原理技术手册 `FFmpeg` `C` `Multimedia`
+  音视频全栈知识体系与 FFmpeg 核心原理技术手册 `FFmpeg` `Shell` `Multimedia`
 
 - 🧩 **[DesignPattern](https://github.com/feixiao/DesignPattern)** · [![Stars](https://img.shields.io/github/stars/feixiao/DesignPattern?style=flat-square&color=fe428e)](https://github.com/feixiao/DesignPattern)  
   23 种设计模式的多语言实现与对比实战 `Go` `Java` `C++`
@@ -36,15 +36,14 @@
 - 🎬 **[ffsrc](https://github.com/feixiao/ffsrc)** · [![Stars](https://img.shields.io/github/stars/feixiao/ffsrc?style=flat-square&color=fe428e)](https://github.com/feixiao/ffsrc)  
   ffplay 源码详细分析与 FFmpeg 核心关键数据结构深入梳理 `C` `FFmpeg`
 
-- ⚡ **[llm-benchmark](https://github.com/feixiao/llm-benchmark)** · [![Stars](https://img.shields.io/github/stars/feixiao/llm-benchmark?style=flat-square&color=fe428e)](https://github.com/feixiao/llm-benchmark)  
-  大模型并发性能压测工具，支持自动化压力测试与性能报告生成 `Python` `LLM`
+- 🐳 **[docker1.2.0](https://github.com/feixiao/docker1.2.0)** · [![Stars](https://img.shields.io/github/stars/feixiao/docker1.2.0?style=flat-square&color=fe428e)](https://github.com/feixiao/docker1.2.0)  
+  Docker 核心源码注解与剖析，深入理解容器运行时底层原理 `Go` `Docker`
 
 ## 🧰 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Multimedia & Streaming** | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-E0234E?style=flat-square&logo=gstreamer&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-173A5E?style=flat-square&logo=sdl&logoColor=white) |
-| **Backend & Middleware** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white) ![Protobuf](https://img.shields.io/badge/Protobuf-43853D?style=flat-square&logo=google&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![NSQ](https://img.shields.io/badge/NSQ-1D70B8?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| **Systems & Cloud Native** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **AI & LLM Engineering** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LLM Benchmarking](https://img.shields.io/badge/LLM_Benchmarking-8E44AD?style=flat-square) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Multimedia & Streaming** | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-E0234E?style=flat-square&logo=gstreamer&logoColor=white) ![Janus](https://img.shields.io/badge/Janus_WebRTC-007ACC?style=flat-square) ![libuv](https://img.shields.io/badge/libuv-8A2BE2?style=flat-square) |
+| **Backend & Middleware** | ![Go-Zero](https://img.shields.io/badge/Go--Zero-00ADD8?style=flat-square) ![NSQ](https://img.shields.io/badge/NSQ-1D70B8?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Systems** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |

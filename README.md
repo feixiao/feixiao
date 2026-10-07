@@ -74,28 +74,3 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![LLM](https://img.shields.io/badge/LLM_Benchmarking-8E44AD?style=flat-square)
 
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feixiao/feixiao/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feixiao/feixiao/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/feixiao/feixiao/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-### 🤝 Connect & Social
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-feixiao-181717?style=flat-square&logo=github)](https://github.com/feixiao)
-
-<br/>
-
-⭐️ *Thanks for visiting! Feel free to explore my repositories and collaborate.*
-
-</div>

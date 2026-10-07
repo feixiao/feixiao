@@ -11,6 +11,4 @@ GitHub Profile README 个人主页仓库。
 2. **内容与隐私原则**
    - 不在公开的 Profile README 中暴露私人邮箱信息。
    - 不收录 `Distributed-Systems` 项目，重点聚焦音视频多媒体（FFmpeg、WebRTC）、设计模式、大模型压测（LLM Benchmark）与基础架构相关仓库。
-
-3. **自动化工作流**
-   - `.github/workflows/snake.yml`：每天定时运行并生成 GitHub 贡献贪吃蛇动画（暗黑与浅色主题适配），部署于 `output` 分支。
+   - 保持主体精炼（关于我、精选项目、技术矩阵），无需多余冗余板块。

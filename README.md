@@ -3,7 +3,7 @@
 # 👨‍💻 Hi, I'm Frank (feixiao)
 
 <a href="https://github.com/feixiao">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Backend+Architecture+%26+Cloud+Native;Audio%2FVideo+Streaming+(FFmpeg+%2B+WebRTC);AI+%26+LLM+Performance+Benchmarking;Open+Source+Explorer+(4%2C600%2B+Stars)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Backend+Architecture+%26+Cloud+Native;Audio%2FVideo+Streaming+(FFmpeg+%2B+WebRTC);AI+%26+LLM+Performance+Benchmarking;Building+Practical+%26+Robust+Software" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,7 +22,6 @@
 - 🔭 **后端与基础架构**：深耕后端高性能架构、系统级编程与云原生基础架构
 - 🎥 **音视频与多媒体**：深入探索编解码底层原理与流媒体实时通信，系统沉淀 FFmpeg、WebRTC、GStreamer 技术手册
 - 🤖 **AI & 大模型工程**：专注 LLM 并发推理压测、AI Agent 与大模型工程化落地
-- 💡 **开源与技术沉淀**：长期坚持高质量开源分享，代表开源项目累计收获 **4,600+ GitHub Stars**
 - 📍 **坐标**：中国 · 杭州 (Hangzhou, China)
 
 ---
@@ -83,7 +82,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-feixiao-181717?style=flat-square&logo=github)](https://github.com/feixiao)
-[![Email](https://img.shields.io/badge/Email-feixiao2020@sina.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:feixiao2020@sina.com)
 
 <br/>
 

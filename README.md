@@ -28,13 +28,25 @@
 
 ### 📌 Featured Projects / 精选开源项目
 
-| 项目 / Project | 技术栈 / Tech | Stars | 简介 / Description |
-| :--- | :--- | :--- | :--- |
-| 🎥 [**learn-ffmpeg**](https://github.com/feixiao/learn-ffmpeg) | `FFmpeg` `C` `Multimedia` | [![Stars](https://img.shields.io/github/stars/feixiao/learn-ffmpeg?style=flat-square&color=fe428e)](https://github.com/feixiao/learn-ffmpeg) | 音视频全栈知识体系、技术手册与 FFmpeg 核心原理剖析 |
-| 🧩 [**DesignPattern**](https://github.com/feixiao/DesignPattern) | `Java` `C++` `Golang` | [![Stars](https://img.shields.io/github/stars/feixiao/DesignPattern?style=flat-square&color=fe428e)](https://github.com/feixiao/DesignPattern) | 23 种设计模式的多语言实现（Java / C++ / Golang）与对比实战 |
-| 📡 [**learning_webrtc**](https://github.com/feixiao/learning_webrtc) | `WebRTC` `RTC` `VoIP` | [![Stars](https://img.shields.io/github/stars/feixiao/learning_webrtc?style=flat-square&color=fe428e)](https://github.com/feixiao/learning_webrtc) | WebRTC 实时音视频通信架构、传输协议与核心业务代码梳理 |
-| 🎬 [**ffsrc**](https://github.com/feixiao/ffsrc) | `C` `FFmpeg` `ffplay` | [![Stars](https://img.shields.io/github/stars/feixiao/ffsrc?style=flat-square&color=fe428e)](https://github.com/feixiao/ffsrc) | ffplay 源码详细分析，FFmpeg 核心关键数据结构关系深入梳理 |
-| ⚡ [**llm-benchmark**](https://github.com/feixiao/llm-benchmark) | `Python` `LLM` `Benchmark` | [![Stars](https://img.shields.io/github/stars/feixiao/llm-benchmark?style=flat-square&color=fe428e)](https://github.com/feixiao/llm-benchmark) | 大模型并发性能压测工具，支持自动化压力测试与性能报告生成 |
+- 🎥 [**learn-ffmpeg**](https://github.com/feixiao/learn-ffmpeg) · [![Stars](https://img.shields.io/github/stars/feixiao/learn-ffmpeg?style=flat-square&color=fe428e)](https://github.com/feixiao/learn-ffmpeg)  
+  音视频全栈知识体系、技术手册与 FFmpeg 核心原理剖析  
+  `FFmpeg` `C` `Multimedia`
+
+- 🧩 [**DesignPattern**](https://github.com/feixiao/DesignPattern) · [![Stars](https://img.shields.io/github/stars/feixiao/DesignPattern?style=flat-square&color=fe428e)](https://github.com/feixiao/DesignPattern)  
+  23 种设计模式的多语言实现（Java / C++ / Golang）与对比实战  
+  `Java` `C++` `Golang`
+
+- 📡 [**learning_webrtc**](https://github.com/feixiao/learning_webrtc) · [![Stars](https://img.shields.io/github/stars/feixiao/learning_webrtc?style=flat-square&color=fe428e)](https://github.com/feixiao/learning_webrtc)  
+  WebRTC 实时音视频通信架构、传输协议与核心业务代码梳理  
+  `WebRTC` `RTC` `VoIP`
+
+- 🎬 [**ffsrc**](https://github.com/feixiao/ffsrc) · [![Stars](https://img.shields.io/github/stars/feixiao/ffsrc?style=flat-square&color=fe428e)](https://github.com/feixiao/ffsrc)  
+  ffplay 源码详细分析，FFmpeg 核心关键数据结构关系深入梳理  
+  `C` `FFmpeg` `ffplay`
+
+- ⚡ [**llm-benchmark**](https://github.com/feixiao/llm-benchmark) · [![Stars](https://img.shields.io/github/stars/feixiao/llm-benchmark?style=flat-square&color=fe428e)](https://github.com/feixiao/llm-benchmark)  
+  大模型并发性能压测工具，支持自动化压力测试与性能报告生成  
+  `Python` `LLM` `Benchmark`
 
 ---
 
@@ -73,19 +85,6 @@
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/feixiao/feixiao/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feixiao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feixiao&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=feixiao&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
 
 ---
 

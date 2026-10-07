@@ -35,6 +35,12 @@
 - 🎬 **[ffsrc](https://github.com/feixiao/ffsrc)** · [![Stars](https://img.shields.io/github/stars/feixiao/ffsrc?style=flat-square&color=fe428e)](https://github.com/feixiao/ffsrc)  
   ffplay 源码详细分析与 FFmpeg 核心关键数据结构深入梳理 `C` `FFmpeg`
 
+- 🎞️ **[gstreamer](https://github.com/feixiao/gstreamer)** · [![Stars](https://img.shields.io/github/stars/feixiao/gstreamer?style=flat-square&color=fe428e)](https://github.com/feixiao/gstreamer)  
+  GStreamer 核心管道架构、插件开发与多媒体流处理体系 `C` `GStreamer` `Streaming`
+
+- ⚡ **[nsq-0.3.7](https://github.com/feixiao/nsq-0.3.7)** · [![Stars](https://img.shields.io/github/stars/feixiao/nsq-0.3.7?style=flat-square&color=fe428e)](https://github.com/feixiao/nsq-0.3.7)  
+  NSQ 高性能分布式实时消息队列核心源码剖析与详细注解 `Go` `NSQ` `Distributed`
+
 
 ## 🧰 Tech Stack
 

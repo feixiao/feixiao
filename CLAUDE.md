@@ -11,5 +11,5 @@ GitHub Profile README 个人主页仓库。
 2. **内容真实性与隐私原则**
    - 必须严格基于用户本人的**原创非 fork 仓库**提炼技术栈与项目，严禁盲目从 fork 仓库中臆测技术（如 CUDA、Kubernetes、LangChain 等绝不能写）。
    - 不在公开的 Profile README 中暴露私人邮箱信息。
-   - 不收录 `Distributed-Systems` 项目，重点聚焦音视频多媒体（FFmpeg、WebRTC、GStreamer）、设计模式、Docker/NSQ 底层源码与 Golang/C++ 系统级架构。
+   - 不收录 `Distributed-Systems` 项目，不再收录已淡忘的 Docker 源码剖析项目，重点聚焦音视频多媒体（FFmpeg、WebRTC、GStreamer）、设计模式、NSQ 等分布式中间件与 Golang/C++ 系统级架构。
    - 保持主体精炼（关于我、精选项目、技术矩阵），无需多余冗余板块。

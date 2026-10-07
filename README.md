@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-- 🔭 **后端与系统编程**：深耕 Golang 与 C/C++ 高性能系统级开发，深入剖析 NSQ 等分布式消息中间件底层实现
-- 🎥 **音视频与流媒体**：深入探索编解码底层原理与实时通信技术，系统沉淀 FFmpeg、WebRTC、GStreamer、Janus 与 Android Native 开发实践
-- 💡 **工程素养与架构设计**：追求整洁代码与优雅设计，深入实践经典设计模式（Design Patterns）与微服务架构
+- 🎥 **Multimedia & RTC**：构建 FFmpeg 编解码知识体系，沉淀 WebRTC 传输协议、SFU 服务端与 Android Native 音视频实践
+- ⚡ **Systems & Backend**：深耕 Golang 与 Modern C++ 系统编程，深究高并发模型、异步 I/O 与分布式消息中间件底层原理
+- 🧩 **Architecture & Craft**：追求整洁代码（Clean Code）与优雅设计，主笔 23 种设计模式多语言实战，兼顾稳健架构与工程素养
 
 ## 📌 Featured Projects
 
